@@ -1,0 +1,1 @@
+Within the GitHub repository is my completed Jupyter Notebook for the Final Project under the course Python Project for Data Science. It clearly shows the extraction, cleaning and analysis of historical stock prices and revenue data for Tesla (TSLA) and GameStop (GME), using Python, yfinance, BeautifulSoup, and Pandas.
